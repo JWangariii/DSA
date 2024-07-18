@@ -1,0 +1,28 @@
+Data structures:
+Data structures are fundamental concepts in computer science.
+They provide efficient ways to organize and store data for various operations.
+Array Data Structure:
+Arrays are contiguous blocks of memory used to store elements of the same data type.
+They offer constant-time access to elements but may require resizing for dynamic data.
+Linked List Data Structure:
+Linked lists consist of nodes where each node stores data and a reference to the next node.
+They offer dynamic memory allocation and efficient insertion/deletion but have slower access times compared to arrays.
+Stack Data Structure:
+A stack is a Last-In-First-Out (LIFO) data structure with two primary operations: push and pop.
+It follows the principle of function call stack and is used in various algorithms and programming problems.
+Queue Data Structure:
+A queue is a First-In-First-Out (FIFO) data structure with enqueue and dequeue operations.
+It's commonly used in scheduling, breadth-first search, and other algorithms where order matters.
+Hash Table Data Structure:
+A hash table is a data structure that maps keys to values using a hash function.
+It provides constant-time average case complexity for insertion, deletion, and retrieval.
+Performance Analysis in Algorithm:
+Performance analysis involves measuring the efficiency and resource usage of algorithms.
+Time complexity and space complexity are primary metrics used for analysis.
+Advanced Sorting Algorithms:
+Sorting algorithms like merge sort, quick sort, and heap sort offer efficient ways to arrange data in ascending or descending order.
+They have different time complexities and trade-offs depending on the input data.
+Manipulating Data Structure in JavaScript (Toy Problems):
+Toy problems are small coding challenges designed to practice data structure manipulation and algorithmic problem-solving.
+JavaScript provides built-in methods and syntax for working with arrays, objects, and other data structures.
+Focus Mode

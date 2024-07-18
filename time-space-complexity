@@ -1,0 +1,3 @@
+Total amount of computer memory required by an algorithm to complete its execution is called as space complexity of that algorithm.
+If the amount of space required by an algorithm is increased with the increase of input value, then that space complexity is said to be Linear Space Complexity.
+The time complexity of an algorithm is the total amount of time required by an algorithm to complete its execution.
